@@ -1,5 +1,5 @@
 # Bangla Word Clustering Based on Tri-gram, 4-gram and 5-gram Language Model
-### [Java](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix) | [project page](https://github.com/h-muhammed/Bangla-Word-Clustering/edit/main) |   [paper](https://arxiv.org/abs/1701.08702)
+### [Java](https://github.com/h-muhammed/Bangla-Word-Clustering) | [project page](https://github.com/h-muhammed/Bangla-Word-Clustering/edit/main) |   [paper](https://arxiv.org/abs/1701.08702)
 
 
 by Hossain Md Saddam, Dipaloke Saha, Sabir Ismail and MD. Saiful Islam
